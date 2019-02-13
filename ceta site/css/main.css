@@ -1,0 +1,68 @@
+.heder {
+    display: inline;
+    width: auto;
+    background: white;
+    
+
+}
+.search {
+    position: relative;;
+    float: right;
+    margin-right: 10px;
+}
+.logo {
+    font-family: Georgia Regular;
+    background-color: black;
+    margin-top: 10px;
+}
+.navibar {
+    display: inline-block;
+    float: right;
+    margin-right: 10px;
+}
+ul li {
+    list-style: none;
+    display: inline-block;
+    text-decoration: none;  
+}
+.color-red a {
+    color: red;
+    
+}
+.navibar a {
+    text-decoration: none;
+    float: right;
+    color: silver;
+    
+}
+hr {
+    display: block;
+    height: 5px;
+    background-color:rgb(0, 105, 14);
+    border: 0 none;
+    margin-top: -1px;
+    }
+
+    .nav-item a {
+        color: yellow;
+    }
+
+    .nav-item.selected a {
+        color: blue;
+    }
+
+    .button {
+        padding: 5px;
+        background: red;
+        border: 1px solid black;
+
+    }
+    .button-primary {
+        color: white;
+    }
+    .logo h1, .logo h2 {
+
+    }
+.navibar li {
+    margin-left: 10px;
+}
