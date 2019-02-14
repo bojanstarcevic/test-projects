@@ -61,8 +61,57 @@ hr {
         color: white;
     }
     .logo h1, .logo h2 {
+        margin-left: 10px; 
+        display: inline-block; 
+        color: white;
+        margin-right: -11px;
+        font-weight: lighter;
 
     }
 .navibar li {
     margin-left: 10px;
+}
+
+.slider {
+    width: auto;
+    margin-left: 15%;
+    display: inline-block;
+    margin-top: -8px;
+
+}
+.slider .leftarrov {
+    float: left;
+    margin-top: 140px;
+}
+.slider .rightarrov {
+    float: right;
+    margin-top: 140px;
+}
+.naslov {
+    width: auto;
+    font-family: Georgia Regular;
+    font-style: italic;
+    text-align: center;
+    font-weight: lighter;
+}
+.navibar .selected {
+    color: green;
+}
+.silver {
+    background-color: silver;
+    width: 50%;
+    height: 3px;
+    transform: skew(20deg)
+}
+.latestwork {
+    width: 100%;
+    display: inline-block;
+}
+.latestwork, .latestwork1, .latestwork2, .latestwork3, .latestwork4 {
+    width: auto;
+    margin-left: 80px;
+    display: inline-block;
+}
+.latestwork a {
+
 }
