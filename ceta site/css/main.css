@@ -107,6 +107,10 @@ hr {
     width: 100%;
     display: block;
 }
+.latestwork img {
+    width: 225px; 
+    height: 140px;
+}
 .latestwork, .latestwork1, .latestwork2, .latestwork3, .latestwork4 {
     width: auto;
     margin-left: 80px;
@@ -125,11 +129,26 @@ hr {
     border-radius: 10px;
     padding: 5px;
 }
-.services a{
-    margin-left: 10px;
-}
-.services, .services-left {
-    width: 49%;
+.services {
     width: 49%;
     margin-top: 267px;
+}
+.services img {
+    width: 48px; 
+    height: 48px;
+    display: inline-block;
+    float: left;
+}
+.services-left {
+    width: 49%;
+    display: inline-block;
+
+}
+.services-right {
+    width: 49%;
+    float: rleft;
+    display: inline-block;  
+}
+.services p {
+    padding: 3px;
 }
