@@ -105,7 +105,7 @@ hr {
 }
 .latestwork {
     width: 100%;
-    display: inline-block;
+    display: block;
 }
 .latestwork, .latestwork1, .latestwork2, .latestwork3, .latestwork4 {
     width: auto;
@@ -124,4 +124,12 @@ hr {
     border: 1px;
     border-radius: 10px;
     padding: 5px;
+}
+.services a{
+    margin-left: 10px;
+}
+.services, .services-left {
+    width: 49%;
+    width: 49%;
+    margin-top: 267px;
 }
