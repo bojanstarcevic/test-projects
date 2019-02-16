@@ -132,6 +132,7 @@ hr {
 .services {
     width: 49%;
     margin-top: 267px;
+    display: inline-block;
 }
 .services img {
     width: 48px; 
@@ -151,4 +152,18 @@ hr {
 }
 .services p {
     padding: 3px;
+}
+.content {
+    width: 49%;
+    display: inline-block;
+}
+.content-left img {
+    width: 228px;
+    height: 225px;
+    border: 44px;
+    padding: 10px;
+    box-shadow: 5px 5px 5px silver;
+    float: right;
+    margin-top: 145px;
+    display: inline-block;
 }
