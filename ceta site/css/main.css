@@ -178,6 +178,7 @@ hr {
     display: inline-block;
 }
 .about {
+    display: inline-block;
     background-color: rgb(34, 34, 34);
     width: auto;
     height: auto;
@@ -187,6 +188,8 @@ hr {
     vertical-align: top;
     width: 20%;
     margin-left: 10px;
+    display: inline-block;
+    float: left;
 }
 .about .about-left p {
     color: rgb(104, 104, 104);
@@ -199,16 +202,14 @@ hr {
     height: 90px;
     display: block;
 }
-.about {
-    margin-top: 5px;
-    text-decoration: none !important;
-    position: relative;
+
 }
 .more2 a {
-    text-decoration: none;
+    text-decoration: none !important;
 }
 .about-right {
-    display: inline-block
+    float: left;
+    width: 16%;
 }
 .about-left p {
     text-decoration: none;
@@ -216,6 +217,5 @@ hr {
     font-size: 18px;
 }
  .link ul {
-    text-decoration; none;
-    display: inline-block; 
+    
 }
