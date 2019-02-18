@@ -1,9 +1,12 @@
 .heder {
     display: inline;
     width: auto;
-    background: white;
-    
+    background: white;  
 
+}
+.body {
+    margin-left: 15px;
+    margin-right: 15px;
 }
 .search {
     position: relative;;
@@ -209,7 +212,7 @@ hr {
 }
 .about-right {
     float: left;
-    width: 16%;
+    width: 15%;
 }
 .about-left p {
     text-decoration: none;
@@ -217,5 +220,5 @@ hr {
     font-size: 18px;
 }
  .link ul {
-    
+    padding: 0px;
 }
