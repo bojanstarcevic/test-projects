@@ -184,23 +184,25 @@ hr {
     color: rgb(104, 104, 104); 
 }
 .about-left {
-    display: inline-block;
-    display: grid;
+    vertical-align: top;
+    width: 20%;
     margin-left: 10px;
 }
-.about .about-left h6 {
+.about .about-left p {
     color: rgb(104, 104, 104);
     float: left;
     display: inline-block;
+    text-size: 18px;
 }
 .about-left img {
     width: 215px; 
     height: 90px;
-    display: inline-block;
+    display: block;
 }
 .about {
     margin-top: 5px;
-    text-align: justify;
+    text-decoration: none !important;
+    position: relative;
 }
 .more2 a {
     text-decoration: none;
@@ -208,9 +210,10 @@ hr {
 .about-right {
     display: inline-block
 }
-.about-right h6 {
+.about-left p {
     text-decoration: none;
     float: left;
+    font-size: 18px;
 }
  .link ul {
     text-decoration; none;
