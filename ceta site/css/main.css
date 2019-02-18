@@ -163,7 +163,56 @@ hr {
     border: 44px;
     padding: 10px;
     box-shadow: 5px 5px 5px silver;
-    float: right;
     margin-top: 145px;
     display: inline-block;
+}
+.content .content-left h4 {
+    float: left;
+    display: inline-block;
+    margin-top: 181px;
+}
+.more {
+    float: right;
+    margin-top: 181px;
+    text-decoration: none;
+    display: inline-block;
+}
+.about {
+    background-color: rgb(34, 34, 34);
+    width: auto;
+    height: auto;
+    color: rgb(104, 104, 104); 
+}
+.about-left {
+    display: inline-block;
+    display: grid;
+    margin-left: 10px;
+}
+.about .about-left h6 {
+    color: rgb(104, 104, 104);
+    float: left;
+    display: inline-block;
+}
+.about-left img {
+    width: 215px; 
+    height: 90px;
+    display: inline-block;
+}
+.about {
+    margin-top: 5px;
+    text-align: justify;
+}
+.more2 a {
+    text-decoration: none;
+}
+.about-right {
+    display: inline-block
+}
+.about-right h6 {
+    text-decoration: none;
+    float: left;
+}
+ .link ul {
+    text-decoration; none;
+    display: inline-block; 
 }
