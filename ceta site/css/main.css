@@ -54,11 +54,6 @@ hr {
         color: blue;
     }
 
-    .button {
-        padding: 5px;
-        background: red;
-        border: 1px solid black;
-
     }
     .button-primary {
         color: white;
@@ -230,6 +225,20 @@ hr {
     text-decoration: none;
     color:  rgb(124, 156, 55);
 }
+.naslov-footer{
+    display: inline-block;
+}
 .blog-contact {
-    display: -webkit-inline-box;
+    display: inline-block;
+    width: 19%;
+    float: left;
+}
+link ul li a {
+    margin-top: 50px;
+}
+.contact {
+    display: inline-block;
+}
+.form{
+    padding: 10px;
 }
