@@ -222,3 +222,14 @@ hr {
  .link ul {
     padding: 0px;
 }
+.about a {
+    text-decoration: none;
+    color: rgb(124, 156, 55);
+}
+.link a {
+    text-decoration: none;
+    color:  rgb(124, 156, 55);
+}
+.blog-contact {
+    display: -webkit-inline-box;
+}
