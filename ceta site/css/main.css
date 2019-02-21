@@ -185,7 +185,7 @@ hr {
 .about-left {
     vertical-align: top;
     width: 20%;
-    margin-left: 10px;
+    margin-left: 182px;
     display: inline-block;
     float: left;
 }
@@ -241,4 +241,27 @@ link ul li a {
 }
 .form{
     padding: 10px;
+}
+input, textarea, select {
+    background-color: rgb(53, 53,53);
+    border-style: none;
+}
+button {
+    background-color: rgb(124, 156, 55);
+    border-style: none;
+}
+.footer {
+    background-color: rgb(34, 34, 34);
+    display: inline-block;
+    width: 100%;
+}
+.footer-right p {
+    float: right;
+    margin-right: 10px;
+    width: 49%;
+}
+.footer-left p {
+    float: left;
+    margin-left: 10px;
+    width: 49%;
 }
