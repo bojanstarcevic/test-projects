@@ -258,10 +258,8 @@ button {
 .footer-right p {
     float: right;
     margin-right: 10px;
-    width: 49%;
 }
 .footer-left p {
     float: left;
     margin-left: 10px;
-    width: 49%;
 }
