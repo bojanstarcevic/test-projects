@@ -74,3 +74,45 @@ ul, li, a {
 .cube-center {
     margin: 0px 10px;
 }
+.social {
+    width: 32.69%;
+    display: inline-block;
+}
+.title-social {
+    font-size: 18px;
+    font: Georgia;
+}
+.line-dots{
+    margin-top: -11px;
+    border: 0.5px dashed silver ;
+    width: 97.69%;
+    float: left;
+}
+input {
+    width: 90%;
+    height: 40px;
+    border-radius: 10px;
+    border: 1px solid silver;
+}
+::placeholder {
+    padding-left: 20px;
+}
+.btn-blue {
+    width: 236px;
+    height: 41px;
+    margin-top: 15px;
+    text-align: left;
+    background-image: linear-gradient(to right, rgb(73, 128, 183) , rgb(75, 131, 189), rgb(73, 128, 183));
+    border-radius: 7px;
+    border: none;
+    color: white;
+    border-color: rgb(0, 74, 128);
+}
+.text-btn-blue {
+    display: inline-block;
+    margin-top: 8px;
+}
+.contact {
+    width: 32.69%;
+    display: inline-block;
+}
