@@ -152,3 +152,17 @@ body {
     margin-left: 16px;
     font-size: 19px;
 }
+form input {
+    display: block;
+    width: 78%;
+    margin: 18px;
+}
+form textarea {
+    width: 78%;
+    margin: 18px;
+    height: 90px;
+}
+.send {
+    width: auto;
+    margin: 0 18px;
+}
