@@ -83,8 +83,8 @@ body {
       font-size: 141px;
   }
   .readmore {
-      float: right;
-      text-decoration: none;
+    float: right;
+    text-decoration: none;
     color: #ba2e1f;
   }
   .content {
@@ -128,4 +128,27 @@ body {
 .text-quote {
     display: block;
     margin-top: 39px;
+}
+.footer {
+    width: 100%;
+}
+.footer-latest {
+    display: inline-block;
+    width: 24.8%;
+    float: left;
+}
+.footer-contact {
+    display: inline-block;
+    width: 24.8%;
+}
+.footer-latest a {
+    display: block;
+    margin-left: 16px;
+    text-decoration: none;
+    color: black;
+    margin-top: 10px;
+}
+.footer p {
+    margin-left: 16px;
+    font-size: 19px;
 }
