@@ -1,0 +1,131 @@
+body {
+    margin: 0 0;
+
+}
+.header {
+    background-color: #ba2e1f;
+    width: 100%;
+    height: 69.165354331px;
+}
+.signup-left {
+    margin-top: 22px;
+    display: inline;
+    float: left;
+}
+.signup-left a {
+    text-decoration: none;
+    color: white;
+    font-style: normal;
+    padding: 22px 0 0 15px;
+}
+.search-right input[type=text] {
+    float: right;
+    padding: 6px;
+    margin-top: 22px;
+    margin-right: 16px;
+    border: none;
+    font-size: 17px;
+    border-radius: 20px;
+    width: 280.062992126px;
+    height: 12px;
+  }
+  .logo p {
+    font-size: 45.354331px;
+    margin-bottom: 0px;
+    margin-left: 16px;
+  }
+  .logo-small {
+      display: inline-block;
+  }
+  .logo-small p {
+      font-size: 15.987402px;
+      margin-top: 0px;
+      margin-left: 16px;
+      display: inline-block;
+  }
+  .icons-social {
+      display: inline-block;
+      float: right;
+      margin-right: 16px;
+  }
+  .main-menu {
+      height: 57px;
+      background-image: linear-gradient(#333333 , #2b2b2b);
+      margin: 57px 16px 0 16px;
+      border-radius: 8px;
+  }
+  .main-menu a {
+      text-decoration: none;
+      color: white;
+      list-style: none;
+      display: inline-block;
+      margin: 0 39.5px;
+
+  }
+  .main-menu ul li {
+      display: inline-block;
+      list-style: none;
+      text-align: center;
+  }
+  .main-menu ul {
+      padding-top: 18px;
+  }
+  .intro {
+    margin: 0 16px;
+  }
+  .intro-text {
+    display: inline-block;
+    float: right;
+    margin: 35px 0px;
+    width: 54%;
+  }
+  .text-int {
+      font-size: 141px;
+  }
+  .readmore {
+      float: right;
+      text-decoration: none;
+    color: #ba2e1f;
+  }
+  .content {
+      display: inline-block;
+      width: 100%;
+      height: auto;
+      background-color: #f2f2f2;
+  }
+  .content-aboutus {
+      display: inline-block;
+      width: 32.4562%;
+      float: left;
+  }
+  .content-aboutus p {
+    font-size: 26px;
+}
+.aboutus-text {
+    float: left;
+    margin-top: 30px;
+}
+.content-aboutus img {
+    display: block;
+    margin-top: 8px;
+    position: relative;
+}
+.content-aboutus h5 {
+    position: absolute;
+    margin: 0 0 0 76px;
+}
+.content-text {
+    position: absolute;
+    width: 27%;
+    margin: 16px 0 0 77px;
+}
+.content-aboutus-center {
+    float: right;
+    text-decoration: none;
+    color: #b92d1f;
+    margin-right: 28px;
+}
+.text-quote {
+    display: block;
+    margin-top: 39px;
+}
