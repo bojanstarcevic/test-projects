@@ -100,3 +100,6 @@ hr {
     margin: 8px;
     display: inline-block;
 }
+.latestimg img {
+    margin-left: 11%;
+}
