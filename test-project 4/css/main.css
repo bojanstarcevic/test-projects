@@ -1,0 +1,102 @@
+body {
+    width: 100%;
+    margin: 0;
+}
+.logo {
+    color: #919191;
+    margin: 30px 0 0 20px;
+    font-size: 26px;
+    display: inline-block;
+}
+.main-menu {
+    background-color: #e2494b;
+    display: inline-block;
+    float: right;
+    margin: 30px 20px 0 0;
+    border-radius: 15px;
+}
+
+.main-menu a {
+    text-decoration: none;
+    color: #ffffff;
+    display: inline-block;
+    margin: 5px;
+    float: right;
+}
+ul li {
+    list-style-type: none;
+    display: inline-block;
+    margin-right: 25px;
+}
+hr {
+    margin-top: 60px;
+    color: #e2e2e2;
+}
+.shout {
+    font-size: 43px;
+    text-align: center;
+}
+.my-slider {
+    max-width: 1000px;
+    position: relative;
+    margin: auto;
+    padding: 40px;
+}
+.ourservice {
+    background-color: #e2494b;
+    text-align: center;
+    max-width: 174px;
+    position: relative;
+    margin: auto;
+    height: 38px;
+    border-radius: 10px;
+}
+.text-center {
+    margin-top: 11px;
+    display: inline-block;
+}
+.over-line {
+    margin: -20px;
+}
+.full-facilis {
+    margin: 60px 20px 20px;
+}
+.facilis-center {
+    margin: 0 10px;
+    width: 32.7%;
+    display: inline-block;
+}
+.facilis {
+    width: 32.7%;
+    display: inline-block;
+}
+.readmore {
+    display: block;
+    text-decoration: none;
+    color: #e2494b;
+    margin-top: 8px;
+}
+.facilis p {
+    font-size: 24px;
+}
+.facilis img {
+    width: 30px;
+    margin-right: 13px;
+}
+.ourplayers {
+    margin: 50px 20px 100px;
+}
+.ourplayers img {
+    display: inline-block;
+    width: 15.36%;
+    height: 180px;
+    margin: 8px;
+}
+.textabout {
+    margin-bottom: 20px;
+}
+.textabout p {
+    width: 15.36%;
+    margin: 8px;
+    display: inline-block;
+}
